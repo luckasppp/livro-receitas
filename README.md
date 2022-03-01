@@ -3,4 +3,4 @@
 Olá! Bem vindo ao meu livro de receitas.
 
 - Strogonoff de Frango
-- Biscoito de Maizena
+- Biscoito de Goiabada
